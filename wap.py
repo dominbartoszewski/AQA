@@ -1,4 +1,3 @@
-# Import unittest module for creating unit tests
 import os.path
 import random
 import unittest
